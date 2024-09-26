@@ -9,7 +9,7 @@ export default function Home() {
         title={siteConfig.title}
         description={siteConfig.description}
       />
-      <Newsletter />
+      {/* <Newsletter /> */}
     </>
   );
 }
